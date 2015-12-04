@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 import math
-from point import Point
+from oo.point import Point
 
 class Line:
     '''Line class'''
